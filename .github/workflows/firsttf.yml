@@ -6,7 +6,7 @@ on:
    branches:
      - main
    paths:
-     - https://github.com/mariyalavhttps://github.com/mariyalavikram/first-demo.gitikram/first-demo.git
+     - "/action/firsttf/*"
      
    
    
